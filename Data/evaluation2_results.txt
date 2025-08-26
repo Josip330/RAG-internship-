@@ -1,0 +1,1054 @@
+################################################################################
+### EVALUATION REPORT
+### Model: nomic-embed-text:latest
+### Timestamp: 2025-06-10 19:42:05 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 0/2
+Subcategory: Expected 202, Got 106
+Chunk Index: Expected 7, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 2/2
+Subcategory: Expected 107, Got 107
+Chunk Index: Expected 19, Got 19
+Top Result Snippet: 107.4a There are five primary colored mana symbols: {W} is white, {U} blue, {B} black, {R} red, 
+and {G} green. These symbols are used to represent colored mana, and also to represent colored 
+mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See 
+rule 202, "M...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: mxbai-embed-large:latest
+### Timestamp: 2025-06-10 20:04:47 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 2/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 202.2f Effects may change an object's color, give a color to a colorless object, or make a colored 
+object become colorless; see rule 105.3. 
+
+202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, 
+regardless of color. 
+Example: A mana cost of {3}{U}{U} t...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 106
+Chunk Index: Expected 19, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: bge-m3:latest
+### Timestamp: 2025-06-10 20:07:43 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 2/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 202.2f Effects may change an object's color, give a color to a colorless object, or make a colored 
+object become colorless; see rule 105.3. 
+
+202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, 
+regardless of color. 
+Example: A mana cost of {3}{U}{U} t...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 202
+Chunk Index: Expected 19, Got 4
+Top Result Snippet: 202.2. An object is the color or colors of the mana symbols in its mana cost, regardless of the color of 
+its frame. 
+
+202.2a The five colors are white, blue, black, red, and green. The white mana symbol is represented 
+by {W}, blue by {U}, black by {B}, red by {R}, and green by {G}. 
+Example: An ob...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: snowflake-arctic-embed:latest
+### Timestamp: 2025-06-10 20:13:15 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 1/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 10
+Top Result Snippet: 208.4. Some effects refer to a creature's "base power," "base toughness," or "base power and 
+toughness."...
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 0/2
+Subcategory: Expected 205, Got 107
+Chunk Index: Expected 30, Got 18
+Top Result Snippet: {W/B/P}, {U/B/P}, {U/R/P}, {B/R/P}, {B/G/P}, {R/G/P}, {R/W/P}, {G/W/P}, and {G/U/P}; and 
+the snow mana symbol {S}....
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 0/2
+Subcategory: Expected 202, Got 107
+Chunk Index: Expected 7, Got 18
+Top Result Snippet: {W/B/P}, {U/B/P}, {U/R/P}, {B/R/P}, {B/G/P}, {R/G/P}, {R/W/P}, {G/W/P}, and {G/U/P}; and 
+the snow mana symbol {S}....
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 0/2
+Subcategory: Expected 122, Got 107
+Chunk Index: Expected 6, Got 37
+Top Result Snippet: card types, that's indicated by a black and white cross. This icon has no effect on game play....
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 1/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 15
+Top Result Snippet: fewer than N counters on it before the counters were put on it and N or more counters on it after....
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 122
+Chunk Index: Expected 31, Got 15
+Top Result Snippet: fewer than N counters on it before the counters were put on it and N or more counters on it after....
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 207
+Chunk Index: Expected 19, Got 7
+Top Result Snippet: color, the player circles (or otherwise clearly indicates) that color's symbol. The mana symbol of 
+each circled color is considered part of that card's printed rules text (see rule 613.1) and affects that 
+card's color identity (see rule 903.4)....
+--------------------------------------------------------------------------------
+
+Total score: 8 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: all-minilm:latest
+### Timestamp: 2025-06-10 20:15:33 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 1/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 20
+Top Result Snippet: 205.3k Instants and sorceries share their lists of subtypes; these subtypes are called spell types. The 
+spell types are Adventure, Arcane, Lesson, Omen, and Trap....
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 1/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 14
+Top Result Snippet: 202.3g Each Phyrexian mana symbol in a card's mana cost contributes 1 to its mana value. 
+Example: The mana value of a card with mana cost {1}{W/P}{W/P} is 3.202.4. Any additional cost listed in an object's rules text or imposed by an effect isn't part of the mana 
+cost. (See rule 601, "Casting Spel...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 2/2
+Subcategory: Expected 107, Got 107
+Chunk Index: Expected 19, Got 19
+Top Result Snippet: 107.4a There are five primary colored mana symbols: {W} is white, {U} blue, {B} black, {R} red, 
+and {G} green. These symbols are used to represent colored mana, and also to represent colored 
+mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See 
+rule 202, "M...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: bge-large:latest
+### Timestamp: 2025-06-10 20:21:00 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 2/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 202.2f Effects may change an object's color, give a color to a colorless object, or make a colored 
+object become colorless; see rule 105.3. 
+
+202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, 
+regardless of color. 
+Example: A mana cost of {3}{U}{U} t...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 106
+Chunk Index: Expected 19, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: BAAI/bge-small-en-v1.5
+### Timestamp: 2025-06-12 15:32:08 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 2/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 202.2f Effects may change an object's color, give a color to a colorless object, or make a colored 
+object become colorless; see rule 105.3. 
+
+202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, 
+regardless of color. 
+Example: A mana cost of {3}{U}{U} t...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 106
+Chunk Index: Expected 19, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: bge-large:latest
+### Timestamp: 2025-06-23 11:54:07 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 2/2
+Subcategory: Expected 202, Got 202
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 202.2f Effects may change an object's color, give a color to a colorless object, or make a colored 
+object become colorless; see rule 105.3. 
+
+202.3. The mana value of an object is a number equal to the total amount of mana in its mana cost, 
+regardless of color. 
+Example: A mana cost of {3}{U}{U} t...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 106
+Chunk Index: Expected 19, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Total score: 16 / 20
+
+================================================================================
+
+################################################################################
+### EVALUATION REPORT
+### Model: bge-large:latest
+### Timestamp: 2025-06-24 11:22:24 CEST
+################################################################################
+
+Query 1: Can a non creature permanent have power and toughness?
+Score: 2/2
+Subcategory: Expected 208, Got 208
+Chunk Index: Expected 7, Got 7
+Top Result Snippet: 208.3. A noncreature permanent has no power or toughness, even if it's a card with a power and 
+toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or 
+toughness only if it has a power and toughness printed on it....
+--------------------------------------------------------------------------------
+
+Query 2: How do I know which rarity my card is?
+Score: 2/2
+Subcategory: Expected 213, Got 213
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 213.1b A card's rarity is indicated with a single letter following the collector number. 
+
+213.1c Some promotional cards include information to indicate the specific promotion the card is 
+associated with....
+--------------------------------------------------------------------------------
+
+Query 3: Which supertypes are there?
+Score: 2/2
+Subcategory: Expected 205, Got 205
+Chunk Index: Expected 30, Got 30
+Top Result Snippet: 205.3q Battles have a unique subtype, called a battle type. That battle type is Siege. 
+
+205.3r Phenomenon cards, scheme cards, vanguard cards, and conspiracy cards have no subtypes. 
+
+205.4. Supertypes 
+
+205.4a An object can have one or more supertypes. A card's supertypes are printed directly befo...
+--------------------------------------------------------------------------------
+
+Query 4: What is mana value?
+Score: 0/2
+Subcategory: Expected 202, Got 106
+Chunk Index: Expected 7, Got 1
+Top Result Snippet: 106. Mana 
+
+106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when 
+casting spells and activating abilities. 
+
+106.1a There are five colors of mana: white, blue, black, red, and green. 
+
+106.1b There are six types of mana: white, blue, black, red, green, and c...
+--------------------------------------------------------------------------------
+
+Query 5: What is a sticker?
+Score: 2/2
+Subcategory: Expected 123, Got 123
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 123. Stickers 
+
+123.1. A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a 
+rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. 
+Changes to an object from stickers are not part of its copiable values. The...
+--------------------------------------------------------------------------------
+
+Query 6: How many poison counters are needed to lose or win a game?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 6, Got 6
+Top Result Snippet: 122.1f If a player has ten or more poison counters, that player loses the game as a state-based 
+action. See rule 704. A player is "poisoned" if they have one or more poison counters. (See rule 
+810 for additional rules for Two-Headed Giant games.)...
+--------------------------------------------------------------------------------
+
+Query 7: What is a counter?
+Score: 2/2
+Subcategory: Expected 122, Got 122
+Chunk Index: Expected 1, Got 1
+Top Result Snippet: 122. Counters 
+
+122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or 
+interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, 
+a counter is not a token, and a token is not a counter. Counters with the sa...
+--------------------------------------------------------------------------------
+
+Query 8: What is the starting life total?
+Score: 0/2
+Subcategory: Expected 118, Got 103
+Chunk Index: Expected 31, Got 10
+Top Result Snippet: 103.4b In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of 
+their vanguard card. 
+
+103.4c In a Commander game, each player's starting life total is 40. 
+
+103.4d In a two-player Brawl game, each player's starting life total is 25. In a multiplayer Brawl 
+gam...
+--------------------------------------------------------------------------------
+
+Query 9: How many cards in a constructed standard deck?
+Score: 2/2
+Subcategory: Expected 100, Got 100
+Chunk Index: Expected 2, Got 2
+Top Result Snippet: 100.2a In constructed play (a way of playing in which each player creates their own deck ahead of 
+time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any 
+number of basic land cards and no more than four of any card with a particular English name 
+other than basic l...
+--------------------------------------------------------------------------------
+
+Query 10: How many mana colors are there?
+Score: 0/2
+Subcategory: Expected 107, Got 105
+Chunk Index: Expected 19, Got 3
+Top Result Snippet: 105.4. If a player is asked to choose a color, they must choose one of the five colors. "Multicolored" is 
+not a color. Neither is "colorless." 
+
+105.5. If an effect refers to a color pair, it means exactly two of the five colors. There are ten color 
+pairs: white and blue, white and black, blue and...
+--------------------------------------------------------------------------------
+
+Total score: 14 / 20
+
+================================================================================
+

@@ -1,0 +1,5 @@
+langgraph
+langchain-openai
+qdrant-client
+tavily-python
+python-dotenv
